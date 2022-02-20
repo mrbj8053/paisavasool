@@ -1,0 +1,14 @@
+[04-Jan-2022 15:46:03 +0000]: <fbfd1c92> In migration: 0000-dbinit
+[04-Jan-2022 15:46:03 +0000]: <fbfd1c92> Found 7 matches
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> In migration: 0000-sample
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> Found 1 matches
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> In migration: 0001-categories
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> Found 1 matches
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> In migration: 0002-increasetextfieldlengths
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> Found 7 matches
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> In migration: 0003-fixtimestampdefaultvalue
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> Found 1 matches
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> In migration: 0004-fixtimestampdefaultvalue
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> Found 1 matches
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> In migration: 0005-changemysqlut8toutf8mb4
+[04-Jan-2022 15:46:04 +0000]: <fbfd1c92> Found 1 matches
